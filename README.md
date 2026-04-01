@@ -7,8 +7,3 @@ A university LAN-based distributed programming contest management system.
 - Admin and Participant roles
 - Real-time leaderboard updates
 - UML, DFD, and SRS documentation
-
-## Authors
-- Nirjhar Das
-- Md. Shahriar Alam
-- Kaniz Fatema
